@@ -41,7 +41,7 @@ pip install customtkinter google-genai pydantic
 
 
 ## Demo
-
+Plz check the Demo.mp4 in this project. Tks.
 
 
 
